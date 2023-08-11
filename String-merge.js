@@ -7,3 +7,6 @@ Examples
 ("jason", "samson", "s")      ==>  "jasamson"
 ("wonderful", "people", "e")  ==>  "wondeople
 */
+
+
+// Solution
